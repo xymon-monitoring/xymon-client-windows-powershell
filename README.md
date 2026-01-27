@@ -14,7 +14,7 @@ On **2026-01-27**, the code was copied to this repository.
 
 This repository started with **version v2.42** of the Xymon client.
 
-# Original README from sourcerforge
+# Original README from sourceforge
 
 ## READ THIS FIRST
 
@@ -63,3 +63,4 @@ e.g. to download a Xymon configuration file you can run
 	PS C:\xymon> xymonsend "config bb-hosts" "xymonhost" >bb-hosts
 
 and then you have a copy of the bb-hosts file.
+
